@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Validación de Verbos Irregulares</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container mt-5">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-8 col-lg-6">
+        <h1 class="text-center mb-4">Irregular verbs</h1>
+        <div id="random-element" class="alert alert-primary text-center"></div>
+
+        <form id="input-form" class="mt-4">
+          <div id="input-fields" class="mb-3"></div>
+          <div class="d-flex gap-2">
+            <button type="button" id="submit-btn" class="btn btn-success w-100">Validar</button>
+            <button type="button" id="reset-btn" class="btn btn-secondary w-100">Reiniciar</button>
+          </div>
+        </form>
+
+        <div id="results" class="mt-4"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+ function loadGame() {
+  // Limpiar contenido previo
+  document.getElementById("random-element").innerText = '';
+  document.getElementById("input-fields").innerHTML = '';
+  document.getElementById("results").innerHTML = '';
+
+  // Cargar datos desde el archivo JSON
+  fetch('verbs.json')
+    .then(response => response.json())
+    .then(jsonData => {
+      // Seleccionar un verbo y una columna aleatoria
+      const randomIndex = Math.floor(Math.random() * jsonData.length);
+      const columns = Object.keys(jsonData[0]);
+      const randomColumn = columns[Math.floor(Math.random() * columns.length)];
+      const randomValue = jsonData[randomIndex][randomColumn];
+
+      // Mostrar el verbo seleccionado
+      document.getElementById("random-element").innerHTML = `${randomColumn} -> <b>${randomValue}</b>`;
+
+      // Crear campos de entrada para las columnas no seleccionadas
+      const inputFields = document.getElementById("input-fields");
+      columns.forEach(column => {
+        if (column !== randomColumn) {
+          const inputGroup = document.createElement("div");
+          inputGroup.className = "mb-3 d-flex align-items-center gap-2"; // d-flex para flexbox y gap para espacio entre elementos
+          inputGroup.innerHTML = `
+            <label for="${column}" class="form-label mb-0" style="min-width: 100px;">${column} &rarr;</label>
+            <input type="text" class="form-control" id="${column}" placeholder="">
+          `;
+
+          inputFields.appendChild(inputGroup);
+        }
+      });
+
+      // Validar las entradas del usuario
+      document.getElementById("submit-btn").addEventListener("click", () => {
+        const resultsDiv = document.getElementById("results");
+        resultsDiv.innerHTML = "";
+
+        columns.forEach(column => {
+          if (column !== randomColumn) {
+            const userValue = document.getElementById(column).value.trim().toUpperCase(); // Convertir entrada a mayúsculas
+            const correctValue = jsonData[randomIndex][column].toUpperCase(); // Convertir valor correcto a mayúsculas
+
+            const result = document.createElement("div");
+            result.className = userValue === correctValue ? "alert alert-success" : "alert alert-danger";
+            result.innerText = userValue === correctValue
+              ? `${column}: Correcto`
+              : `${column}: Incorrecto. El valor correcto es '${jsonData[randomIndex][column]}'`;
+            resultsDiv.appendChild(result);
+          }
+        });
+      });
+    })
+    .catch(error => console.error('Error al cargar el JSON:', error));
+}
+
+    // Botón para reiniciar el juego
+    document.getElementById("reset-btn").addEventListener("click", () => {
+      loadGame(); // Recargar el juego sin refrescar la página
+    });
+
+    // Inicializar el juego al cargar la página
+    loadGame();
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

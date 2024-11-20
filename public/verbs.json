@@ -1,0 +1,692 @@
+[
+    {
+        "base form": "be",
+        "past simple": "was / were",
+        "past participle": "been",
+        "translation": "ser/estar"
+    },
+    {
+        "base form": "beat",
+        "past simple": "beat",
+        "past participle": "beaten",
+        "translation": "batre, pegar, derrotar"
+    },
+    {
+        "base form": "become",
+        "past simple": "became",
+        "past participle": "become",
+        "translation": "convertir-se"
+    },
+    {
+        "base form": "begin",
+        "past simple": "began",
+        "past participle": "begun",
+        "translation": "començar"
+    },
+    {
+        "base form": "bend",
+        "past simple": "bent",
+        "past participle": "bent",
+        "translation": "doblegar-se"
+    },
+    {
+        "base form": "bet",
+        "past simple": "bet",
+        "past participle": "bet",
+        "translation": "apostar"
+    },
+    {
+        "base form": "bite",
+        "past simple": "bit",
+        "past participle": "bitten",
+        "translation": "mossegar"
+    },
+    {
+        "base form": "bleed",
+        "past simple": "bled",
+        "past participle": "bled",
+        "translation": "sagnar"
+    },
+    {
+        "base form": "blow",
+        "past simple": "blew",
+        "past participle": "blown",
+        "translation": "bufar"
+    },
+    {
+        "base form": "break",
+        "past simple": "broke",
+        "past participle": "broken",
+        "translation": "trencar"
+    },
+    {
+        "base form": "bring",
+        "past simple": "brought",
+        "past participle": "brought",
+        "translation": "portar"
+    },
+    {
+        "base form": "build",
+        "past simple": "built",
+        "past participle": "built",
+        "translation": "construir"
+    },
+    {
+        "base form": "burn",
+        "past simple": "burned/burnt",
+        "past participle": "burned/burnt",
+        "translation": "cremar"
+    },
+    {
+        "base form": "burst",
+        "past simple": "burst",
+        "past participle": "burst",
+        "translation": "esclatar"
+    },
+    {
+        "base form": "buy",
+        "past simple": "bought",
+        "past participle": "bought",
+        "translation": "comprar"
+    },
+    {
+        "base form": "catch",
+        "past simple": "caught",
+        "past participle": "caught",
+        "translation": "agafar"
+    },
+    {
+        "base form": "choose",
+        "past simple": "chose",
+        "past participle": "chosen",
+        "translation": "triar, escollir"
+    },
+    {
+        "base form": "come",
+        "past simple": "came",
+        "past participle": "come",
+        "translation": "venir"
+    },
+    {
+        "base form": "cost",
+        "past simple": "cost",
+        "past participle": "cost",
+        "translation": "costar"
+    },
+    {
+        "base form": "cut",
+        "past simple": "cut",
+        "past participle": "cut",
+        "translation": "tallar"
+    },
+    {
+        "base form": "deal",
+        "past simple": "dealt",
+        "past participle": "dealt",
+        "translation": "tractar"
+    },
+    {
+        "base form": "dig",
+        "past simple": "dug",
+        "past participle": "dug",
+        "translation": "cavar"
+    },
+    {
+        "base form": "do",
+        "past simple": "did",
+        "past participle": "done",
+        "translation": "fer"
+    },
+    {
+        "base form": "draw",
+        "past simple": "drew",
+        "past participle": "drawn",
+        "translation": "dibuixar"
+    },
+    {
+        "base form": "dream",
+        "past simple": "dreamt/dreamed",
+        "past participle": "dreamt/dreamed",
+        "translation": "somiar"
+    },
+    {
+        "base form": "drink",
+        "past simple": "drank",
+        "past participle": "drunk",
+        "translation": "beure"
+    },
+    {
+        "base form": "drive",
+        "past simple": "drove",
+        "past participle": "driven",
+        "translation": "conduir"
+    },
+    {
+        "base form": "eat",
+        "past simple": "ate",
+        "past participle": "eaten",
+        "translation": "menjar"
+    },
+    {
+        "base form": "fall",
+        "past simple": "fell",
+        "past participle": "fallen",
+        "translation": "caure"
+    },
+    {
+        "base form": "feed",
+        "past simple": "fed",
+        "past participle": "fed",
+        "translation": "alimentar"
+    },
+    {
+        "base form": "feel",
+        "past simple": "felt",
+        "past participle": "felt",
+        "translation": "sentir"
+    },
+    {
+        "base form": "fight",
+        "past simple": "fought",
+        "past participle": "fought",
+        "translation": "lluitar, barallar-se"
+    },
+    {
+        "base form": "find",
+        "past simple": "found",
+        "past participle": "found",
+        "translation": "trobar"
+    },
+    {
+        "base form": "fly",
+        "past simple": "flew",
+        "past participle": "flown",
+        "translation": "volar"
+    },
+    {
+        "base form": "forbid",
+        "past simple": "forbade",
+        "past participle": "forbidden",
+        "translation": "prohibir"
+    },
+    {
+        "base form": "forget",
+        "past simple": "forgot",
+        "past participle": "forgotten",
+        "translation": "oblidar"
+    },
+    {
+        "base form": "forgive",
+        "past simple": "forgave",
+        "past participle": "forgiven",
+        "translation": "perdonar"
+    },
+    {
+        "base form": "freeze",
+        "past simple": "froze",
+        "past participle": "frozen",
+        "translation": "congelar"
+    },
+    {
+        "base form": "get",
+        "past simple": "got",
+        "past participle": "got/gotten",
+        "translation": "aconseguir"
+    },
+    {
+        "base form": "give",
+        "past simple": "gave",
+        "past participle": "given",
+        "translation": "donar"
+    },
+    {
+        "base form": "go",
+        "past simple": "went",
+        "past participle": "gone",
+        "translation": "anar"
+    },
+    {
+        "base form": "grow",
+        "past simple": "grew",
+        "past participle": "grown",
+        "translation": "créixer"
+    },
+    {
+        "base form": "hang",
+        "past simple": "hung",
+        "past participle": "hung",
+        "translation": "penjar"
+    },
+    {
+        "base form": "have",
+        "past simple": "had",
+        "past participle": "had",
+        "translation": "tenir"
+    },
+    {
+        "base form": "hear",
+        "past simple": "heard",
+        "past participle": "heard",
+        "translation": "sentir"
+    },
+    {
+        "base form": "hide",
+        "past simple": "hid",
+        "past participle": "hidden",
+        "translation": "amagar"
+    },
+    {
+        "base form": "hit",
+        "past simple": "hit",
+        "past participle": "hit",
+        "translation": "colpejar"
+    },
+    {
+        "base form": "hold",
+        "past simple": "held",
+        "past participle": "held",
+        "translation": "sostenir"
+    },
+    {
+        "base form": "hurt",
+        "past simple": "hurt",
+        "past participle": "hurt",
+        "translation": "fer mal"
+    },
+    {
+        "base form": "keep",
+        "past simple": "kept",
+        "past participle": "kept",
+        "translation": "mantenir"
+    },
+    {
+        "base form": "know",
+        "past simple": "knew",
+        "past participle": "known",
+        "translation": "saber"
+    },
+    {
+        "base form": "lay",
+        "past simple": "laid",
+        "past participle": "laid",
+        "translation": "estendre"
+    },
+    {
+        "base form": "lead",
+        "past simple": "led",
+        "past participle": "led",
+        "translation": "dirigir"
+    },
+    {
+        "base form": "learn",
+        "past simple": "learnt/learned",
+        "past participle": "learnt/learned",
+        "translation": "aprendre"
+    },
+    {
+        "base form": "leave",
+        "past simple": "left",
+        "past participle": "left",
+        "translation": "abandonar"
+    },
+    {
+        "base form": "lend",
+        "past simple": "lent",
+        "past participle": "lent",
+        "translation": "prestar"
+    },
+    {
+        "base form": "let",
+        "past simple": "let",
+        "past participle": "let",
+        "translation": "deixar fer alguna cosa a algú"
+    },
+    {
+        "base form": "lie",
+        "past simple": "lay",
+        "past participle": "lain",
+        "translation": "ajaures, estirar"
+    },
+    {
+        "base form": "lie (regular verb)",
+        "past simple": "lied",
+        "past participle": "lied",
+        "translation": "mentir"
+    },
+    {
+        "base form": "light",
+        "past simple": "lit",
+        "past participle": "lit",
+        "translation": "encendre"
+    },
+    {
+        "base form": "lose",
+        "past simple": "lost",
+        "past participle": "lost",
+        "translation": "perdre"
+    },
+    {
+        "base form": "make",
+        "past simple": "made",
+        "past participle": "made",
+        "translation": "fer, elaborar"
+    },
+    {
+        "base form": "mean",
+        "past simple": "meant",
+        "past participle": "meant",
+        "translation": "significar"
+    },
+    {
+        "base form": "meet",
+        "past simple": "met",
+        "past participle": "met",
+        "translation": "trobar, conèixer"
+    },
+    {
+        "base form": "pay",
+        "past simple": "paid",
+        "past participle": "paid",
+        "translation": "pagar"
+    },
+    {
+        "base form": "prove",
+        "past simple": "proved",
+        "past participle": "proved/proven",
+        "translation": "provar"
+    },
+    {
+        "base form": "put",
+        "past simple": "put",
+        "past participle": "put",
+        "translation": "posar"
+    },
+    {
+        "base form": "read",
+        "past simple": "read",
+        "past participle": "read",
+        "translation": "llegir"
+    },
+    {
+        "base form": "ride",
+        "past simple": "rode",
+        "past participle": "ridden",
+        "translation": "muntar"
+    },
+    {
+        "base form": "ring",
+        "past simple": "rang",
+        "past participle": "rung",
+        "translation": "trucar, sonar"
+    },
+    {
+        "base form": "rise",
+        "past simple": "rose",
+        "past participle": "risen",
+        "translation": "augmentar"
+    },
+    {
+        "base form": "run",
+        "past simple": "ran",
+        "past participle": "run",
+        "translation": "córrer"
+    },
+    {
+        "base form": "say",
+        "past simple": "said",
+        "past participle": "said",
+        "translation": "dir"
+    },
+    {
+        "base form": "see",
+        "past simple": "saw",
+        "past participle": "seen",
+        "translation": "veure"
+    },
+    {
+        "base form": "sell",
+        "past simple": "sold",
+        "past participle": "sold",
+        "translation": "vendre"
+    },
+    {
+        "base form": "send",
+        "past simple": "sent",
+        "past participle": "sent",
+        "translation": "enviar"
+    },
+    {
+        "base form": "set",
+        "past simple": "set",
+        "past participle": "set",
+        "translation": "posar, col·locar"
+    },
+    {
+        "base form": "sew",
+        "past simple": "sewed",
+        "past participle": "sewed/sewn",
+        "translation": "cosir"
+    },
+    {
+        "base form": "shake",
+        "past simple": "shook",
+        "past participle": "shaken",
+        "translation": "sacsejar"
+    },
+    {
+        "base form": "shine",
+        "past simple": "shone",
+        "past participle": "shone",
+        "translation": "brillar"
+    },
+    {
+        "base form": "shoot",
+        "past simple": "shot",
+        "past participle": "shot",
+        "translation": "disparar"
+    },
+    {
+        "base form": "shut",
+        "past simple": "shut",
+        "past participle": "shut",
+        "translation": "tancar"
+    },
+    {
+        "base form": "show",
+        "past simple": "showed",
+        "past participle": "shown",
+        "translation": "mostrar"
+    },
+    {
+        "base form": "sing",
+        "past simple": "sang",
+        "past participle": "sung",
+        "translation": "cantar"
+    },
+    {
+        "base form": "sink",
+        "past simple": "sank",
+        "past participle": "sunk",
+        "translation": "enfonsar-se"
+    },
+    {
+        "base form": "sit",
+        "past simple": "sat",
+        "past participle": "sat",
+        "translation": "seure"
+    },
+    {
+        "base form": "sleep",
+        "past simple": "slept",
+        "past participle": "slept",
+        "translation": "dormir"
+    },
+    {
+        "base form": "smell",
+        "past simple": "smelt/smelled",
+        "past participle": "smelt/smelled",
+        "translation": "olorar"
+    },
+    {
+        "base form": "speak",
+        "past simple": "spoke",
+        "past participle": "spoken",
+        "translation": "parlar"
+    },
+    {
+        "base form": "spell",
+        "past simple": "spelled/spelt",
+        "past participle": "spelled/spelt",
+        "translation": "letrejar"
+    },
+    {
+        "base form": "spend",
+        "past simple": "spent",
+        "past participle": "spent",
+        "translation": "gastar"
+    },
+    {
+        "base form": "spill",
+        "past simple": "spilled/spilt",
+        "past participle": "spilled/spilt",
+        "translation": "vessar"
+    },
+    {
+        "base form": "spit",
+        "past simple": "spat",
+        "past participle": "spat",
+        "translation": "escupir"
+    },
+    {
+        "base form": "spoil",
+        "past simple": "spoiled/spoilt",
+        "past participle": "spoiled/spoilt",
+        "translation": "espatllar"
+    },
+    {
+        "base form": "spread",
+        "past simple": "spread",
+        "past participle": "spread",
+        "translation": "escampar"
+    },
+    {
+        "base form": "spring",
+        "past simple": "sprang",
+        "past participle": "sprung",
+        "translation": "provenir"
+    },
+    {
+        "base form": "stand",
+        "past simple": "stood",
+        "past participle": "stood",
+        "translation": "estar dret"
+    },
+    {
+        "base form": "steal",
+        "past simple": "stole",
+        "past participle": "stolen",
+        "translation": "robar"
+    },
+    {
+        "base form": "stick",
+        "past simple": "stuck",
+        "past participle": "stuck",
+        "translation": "clavar"
+    },
+    {
+        "base form": "sting",
+        "past simple": "stung",
+        "past participle": "stung",
+        "translation": "picar"
+    },
+    {
+        "base form": "swear",
+        "past simple": "swore",
+        "past participle": "sworn",
+        "translation": "jurar"
+    },
+    {
+        "base form": "sweep",
+        "past simple": "swept",
+        "past participle": "swept",
+        "translation": "escombrar"
+    },
+    {
+        "base form": "swim",
+        "past simple": "swam",
+        "past participle": "swum",
+        "translation": "nedar"
+    },
+    {
+        "base form": "swing",
+        "past simple": "swung",
+        "past participle": "swung",
+        "translation": "balancejar"
+    },
+    {
+        "base form": "take",
+        "past simple": "took",
+        "past participle": "taken",
+        "translation": "agafar, portar"
+    },
+    {
+        "base form": "teach",
+        "past simple": "taught",
+        "past participle": "taught",
+        "translation": "ensenyar"
+    },
+    {
+        "base form": "tear",
+        "past simple": "tore",
+        "past participle": "torn",
+        "translation": "estripar"
+    },
+    {
+        "base form": "tell",
+        "past simple": "told",
+        "past participle": "told",
+        "translation": "dir, explicar"
+    },
+    {
+        "base form": "think",
+        "past simple": "thought",
+        "past participle": "thought",
+        "translation": "pensar"
+    },
+    {
+        "base form": "throw",
+        "past simple": "threw",
+        "past participle": "thrown",
+        "translation": "llançar"
+    },
+    {
+        "base form": "understand",
+        "past simple": "understood",
+        "past participle": "understood",
+        "translation": "entendre"
+    },
+    {
+        "base form": "wake up",
+        "past simple": "woke up",
+        "past participle": "woken up",
+        "translation": "despertar"
+    },
+    {
+        "base form": "wear",
+        "past simple": "wore",
+        "past participle": "worn",
+        "translation": "portar (roba)"
+    },
+    {
+        "base form": "win",
+        "past simple": "won",
+        "past participle": "won",
+        "translation": "guanyar"
+    },
+    {
+        "base form": "write",
+        "past simple": "wrote",
+        "past participle": "written",
+        "translation": "escriure"
+    }
+]
